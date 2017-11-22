@@ -1,0 +1,14 @@
+C:\github\Grades\Grades\bin\Debug\Grades.exe.config
+C:\github\Grades\Grades\bin\Debug\Grades.exe
+C:\github\Grades\Grades\bin\Debug\Grades.pdb
+C:\github\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\github\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\github\Grades\Grades\obj\Debug\Grades.exe
+C:\github\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\jnorah.FIFTH\Downloads\Grades-master\Grades-master\Grades\bin\Debug\Grades.exe.config
+C:\Users\jnorah.FIFTH\Downloads\Grades-master\Grades-master\Grades\obj\Debug\Grades.exe
+C:\Users\jnorah.FIFTH\Downloads\Grades-master\Grades-master\Grades\obj\Debug\Grades.pdb
+C:\Users\jnorah.FIFTH\Downloads\Grades-master\Grades-master\Grades\bin\Debug\Grades.exe
+C:\Users\jnorah.FIFTH\Downloads\Grades-master\Grades-master\Grades\bin\Debug\Grades.pdb
+C:\Users\jnorah.FIFTH\Downloads\Grades-master\Grades-master\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\jnorah.FIFTH\Downloads\Grades-master\Grades-master\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
